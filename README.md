@@ -1,8 +1,6 @@
 # Lords-Mobile
-==============================================================
 Lordsmobile.exe - executable
 Compiled by zer0d4y - [GnF]goldonrust
-==============================================================
 
 This is the executable version of Game Lords Mobile
 You need to provide Lordsmobile_Data folder to launch
